@@ -1,5 +1,3 @@
-Here’s a **detailed README** for your **GitHub repository** to make it **eye-catching, well-structured, and informative** for contributors and judges at DoraHacks. 🚀  
-
 ---
 
 ## **PrivAware-PKM: Privacy-First Multi-Modal Personal Knowledge Model**  
