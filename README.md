@@ -1,5 +1,3 @@
----
-
 ## **PrivAware-PKM: Privacy-First Multi-Modal Personal Knowledge Model**  
 
 🚀 **Empowering Privacy-First AI: Your Knowledge, Your Control!** 🚀  
